@@ -1,2 +1,2 @@
-This is stupid
-What is going on with this crap?
+Got it working, at least partly. 
+Hopefully the folder thing works
